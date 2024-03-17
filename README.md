@@ -1,3 +1,3 @@
 # note-taker
 <br>
-Author-Veena
+Author-Veena Hadimani
